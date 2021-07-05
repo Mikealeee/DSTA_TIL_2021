@@ -13,3 +13,5 @@ Audio classification (Challenges 2 and 4)
 
 I obtained 28th position out of thr 63 teams that were participating in the UT cateogry. 
 I would say im fairly content with how I faired in this competition. Though I would of course have liked to score better, I felt i did the best I could (especially as a one man team). All in all, I picked up a couplle of additional skills and insights through this competition and would be sure to perform even better in the future!
+
+NOTE: Unfortunately, I think im not allowed to share the source code(70% sure). As such I would  just be releasing the models that i have trained. 
