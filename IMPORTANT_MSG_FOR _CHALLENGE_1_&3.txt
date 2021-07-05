@@ -1,0 +1,4 @@
+Unfortunately I am pretty sure I am not allowed to distribute the source code (70% sure). Hence I would only be sharing the models that i have trained.
+I would be sharing the links to the models via a google drive link for challenges 1 and 3 (Both of these are onject detection models) as they are simply toooo big to be uploaded to github.
+
+I do realise that it might make this repositry redudant for some people if there is not source code, but its the rules of the competition that we arent allowed to share the code. Sorry :(
